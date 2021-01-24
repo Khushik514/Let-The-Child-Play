@@ -1,0 +1,18 @@
+body {
+    color: #fff;
+}
+
+#highScoresList {
+    list-style: none;
+    margin-bottom: 4rem;
+}
+
+.high-score {
+    font-size: 2.8rem;
+    margin-bottom: 0.5rem;
+}
+/*    
+	Design adpated from a youtube video tutorial
+	All due credits to the owner
+	https://www.youtube.com/watch?v=f4fB9Xg2JEY
+*/
